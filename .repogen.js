@@ -2,8 +2,9 @@ const config = {
   provider: "alechp",
   repospacePath: __dirname,
   repositories: [
-    { servexyz: "react-project" },
+    { servexyz: "amplify-razzle-starter" },
     { servexyz: "prisma-project" },
+    { servexyz: "docsify-starter" }
   ]
 };
 
